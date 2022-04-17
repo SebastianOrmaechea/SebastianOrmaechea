@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 💞️ I’m looking to collaborate on livestock projects
 - 📫 How to reach me: ormaecheasg@gmail.com
-**** Where to find me:
+- **** Where to find me:
       - [Google Scholar](https://scholar.google.com/citations?user=0W15E9QAAAAJ&hl=es)
       - [Research Gate](https://www.researchgate.net/profile/Sebastian-Ormaechea)
       - [Linkedin](https://www.linkedin.com/in/dr-msc-ing-agr-sebastian-ormaechea-a4b38417b/)
