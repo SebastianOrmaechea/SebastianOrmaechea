@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebastianOrmaechea
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in all types of agricultural data 
 - 💞️ I’m looking to collaborate on livestock projects
 - 📫 How to reach me: ormaecheasg@gmail.com
 - #### Where to find me:
