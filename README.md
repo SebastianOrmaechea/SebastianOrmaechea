@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebastianOrmaechea
-- 👀 I’m interested in all types of agricultural data 
-- 💞️ I’m looking to collaborate on livestock projects
+- 👀 I’m interested in all types of data but i have important domain over agricultural data
+- 💞️ I’m looking to collaborate on artificial intelligence projects
 - 📫 How to reach me: ormaecheasg@gmail.com
 - #### Where to find me:
 
