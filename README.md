@@ -10,7 +10,7 @@
  
  [Research Gate](https://www.researchgate.net/profile/Sebastian-Ormaechea)
  
- [Linkedin](https://www.linkedin.com/in/dr-msc-ing-agr-sebastian-ormaechea-a4b38417b/)
+ [Linkedin]([https://www.linkedin.com/in/dr-msc-ing-agr-sebastian-ormaechea-a4b38417b/](https://www.linkedin.com/in/ormaecheasg/))
 
 <!---
 SebastianOrmaechea/SebastianOrmaechea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
