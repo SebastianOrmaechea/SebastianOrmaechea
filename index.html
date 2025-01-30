@@ -225,7 +225,208 @@
 			</div>
 		</div>
 	</div>
+		<!DOCTYPE html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>Professional Journey Timeline</title>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			body {
+				font-family: Arial, sans-serif;
+				background-color: #2e2e2e;
+				color: white;
+				margin: 0;
+				padding: 0;
+			}
 
+			.container {
+				width: 90%;
+				margin: auto;
+				padding: 20px;
+			}
+
+			.timeline {
+				list-style: none;
+				padding: 0;
+				position: relative;
+			}
+
+			.timeline::before {
+				content: '';
+				position: absolute;
+				top: 0;
+				bottom: 0;
+				left: 50%;
+				width: 2px;
+				background: #555;
+				transform: translateX(-50%);
+			}
+
+			.timeline-heading {
+				text-align: center;
+				margin: 20px 0;
+			}
+
+			.timeline-badge {
+				color: #fff;
+				background: #00bcd4;
+				width: 50px;
+				height: 50px;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				border-radius: 50%;
+				position: absolute;
+				left: 50%;
+				transform: translate(-50%, -50%);
+			}
+
+			.timeline-panel {
+				background: #444;
+				border-radius: 8px;
+				padding: 20px;
+				width: 45%;
+				position: relative;
+			}
+
+			.timeline-unverted .timeline-panel {
+				float: right;
+				margin-right: -47%;
+				clear: both;
+			}
+
+			.timeline-inverted .timeline-panel {
+				float: left;
+				margin-left: -47%;
+				clear: both;
+			}
+
+			.timeline-title {
+				font-size: 1.2em;
+				margin: 0 0 10px;
+			}
+
+			.timeline-body {
+				margin: 0;
+			}
+
+			.company {
+				font-size: 0.9em;
+				color: #aaa;
+			}
+
+		</style>
+	</head>
+	<body>
+		<div id="fh5co-resume" class="fh5co-bg-color">
+			<div class="container">
+				<div class="row animate-box">
+					<div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+						<h2>Professional and Educational Journey</h2>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12 col-md-offset-0">
+						<ul class="timeline">
+							<li class="timeline-heading text-center animate-box">
+								<div><h3>Educational Background</h3></div>
+							</li>
+							<li class="timeline-unverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-graduation-cap"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Bachelor’s Degree in Agricultural Engineering</h3>
+										<span class="company">National University of Córdoba - September 2005</span>
+									</div>
+									<div class="timeline-body">
+										<p>Focused on sustainable agricultural practices and engineering solutions.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-inverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-graduation-cap"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Master of Science in Natural Resources</h3>
+										<span class="company">University of Buenos Aires - August 2012</span>
+									</div>
+									<div class="timeline-body">
+										<p>Specialized in resource management and sustainable development.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-unverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-graduation-cap"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Ph.D. in Agricultural Sciences</h3>
+										<span class="company">University of Buenos Aires - October 2020</span>
+									</div>
+									<div class="timeline-body">
+										<p>Research on innovative agricultural techniques and their real-world applications.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-heading text-center animate-box">
+								<div><h3>Professional Experience</h3></div>
+							</li>
+							<li class="timeline-inverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Machine Learning Engineer</h3>
+										<span class="company">Anyone AI - December 2022</span>
+									</div>
+									<div class="timeline-body">
+										<p>Developed AI models for data-driven decision-making in agriculture.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-unverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Data Scientist</h3>
+										<span class="company">Ithreex Global - December 2022 to September 2023</span>
+									</div>
+									<div class="timeline-body">
+										<p>Provided actionable insights using advanced data analytics techniques.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-inverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Machine Learning Professor</h3>
+										<span class="company">Universidad Austral de Rosario - June 2022 to June 2024</span>
+									</div>
+									<div class="timeline-body">
+										<p>Teaching machine learning concepts and their application in real-world projects.</p>
+									</div>
+								</div>
+							</li>
+							<li class="timeline-unverted animate-box">
+								<div class="timeline-badge"><i class="fa fa-suitcase"></i></div>
+								<div class="timeline-panel">
+									<div class="timeline-heading">
+										<h3 class="timeline-title">Data Scientist</h3>
+										<span class="company">Kilimo Agtech - September 2023 to December 2024</span>
+									</div>
+									<div class="timeline-body">
+										<p>Focused on building predictive models for water usage in agriculture.</p>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</body>
+	</html>
 	<div id="fh5co-features" class="animate-box">
 		<div class="container">
 			<div class="services-padding">
